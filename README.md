@@ -7,6 +7,9 @@
 - "테스트용" 폴더 : 무시하세요
 
 ## 사용 방법
-```git clone https://github.com/SeoyoungOhMe/fly-ai-project-video-to-clip.git```
+```git clone https://github.com/SeoyoungOhMe/fly-ai-project-video-to-clip.git
+pip install opencv-python
+pip install moviepy
+```
 
 
